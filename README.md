@@ -115,4 +115,4 @@ piyolog-viz/
 ## 参考
 
 - ぴよログ公式: https://www.piyolog.com/
-- 関連記事（作者ブログ）: https://satosmemo.com/（後日リンク追記）
+- 関連記事（作者ブログ）: [【ぴよログ×Python】成長・睡眠・授乳の推移グラフと「うんちアラート」を作った話](https://satosmemo.com/piyolog-python-growth-poo-alert/)

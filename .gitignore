@@ -1,0 +1,17 @@
+# ぴよログの実データ（個人情報を含むため除外）
+data/
+
+# 生成されるHTMLファイル
+*.html
+
+# 離乳食の導入記録（個人データ）
+ryunyu_foods.json
+
+# 個人設定
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

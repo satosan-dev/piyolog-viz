@@ -112,7 +112,14 @@ piyolog-viz/
 - 本スクリプトはぴよログのエクスポート機能（公式提供）を利用しています。ぴよログのサーバーへのアクセスは行いません。
 - 医療的な判断の根拠として使用しないでください。お子さんの健康状態は医師にご相談ください。
 
+## 関連リポジトリ
+
+- [app-piyorenraku](https://github.com/satosan-dev/app-piyorenraku) — ぴよログのテキスト出力を**保育園の生活記録票フォーマット**に変換するブラウザアプリ。毎朝の連絡帳記入の手間を減らしたい方はこちら。
+
 ## 参考
 
-- ぴよログ公式: https://www.piyolog.com/
-- 関連記事（作者ブログ）: [【ぴよログ×Python】成長・睡眠・授乳の推移グラフと「うんちアラート」を作った話](https://satosmemo.com/piyolog-python-growth-poo-alert/)
+- ぴよログ公式: <https://www.piyolog.com/>
+- 関連記事（作者ブログ）:
+  - [成長グラフとうんちアラート](https://satosmemo.com/piyolog-python-growth-poo-alert/)
+  - [1日のタイムライン可視化](https://satosmemo.com/piyolog-python-timeline/)
+  - [離乳食マップ](https://satosmemo.com/piyolog-python-weaning-food-map/)
